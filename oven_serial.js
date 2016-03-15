@@ -126,7 +126,7 @@
             tryNextDevice();
         }
     }
-
+//
     var poller = null;
     var watchdog = null;
     function tryNextDevice() {
